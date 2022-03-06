@@ -75,6 +75,7 @@ public class Odev5 {
     }@AfterClass
     public static void afterClass(){
 driver.close();
+
     }
 
    }
